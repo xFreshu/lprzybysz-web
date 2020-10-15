@@ -7,6 +7,19 @@
     <title>Łukasz Przybysz</title>
 </head>
 <body>
+<div class="sidebar">
+    <div class="hamburger" onclick="sidebar()"><i class="fas fa-bars fa-2x"></i></div>
+    <img src="assets/me.jpg" alt="ee" class="sidebar__photo">
+    <ul class="sidebar__list">
+        <li class="sidebar__item"><a href="#" class="sidebar__link">Home</a></li>
+        <li class="sidebar__item"><a href="#" class="sidebar__link">About me</a></li>
+        <li class="sidebar__item"><a href="#" class="sidebar__link">Services</a></li>
+        <li class="sidebar__item"><a href="#" class="sidebar__link">Experience</a></li>
+        <li class="sidebar__item"><a href="#" class="sidebar__link">Portfolio</a></li>
+        <li class="sidebar__item"><a href="#" class="sidebar__link">Contact</a></li>
+    </ul>
+    <p class="sidebar__author">Design and develop with ❤️ Łukasz Przybysz 2020</p>
+</div>
 <div class="wrapper">
     <section class="introduce">
         <img src="assets/me.jpg" alt="Photo of future developer" class="introduce__photo">
@@ -15,9 +28,12 @@
             <p>I'm a Junior Frontend Developer.</p>
         </div>
         <ul class="introduce__list">
-            <li class="introduce__item"><a href="#" class="introduce__link" target="_blank"><i class="fab fa-linkedin fa-6x"></i></a></li>
-            <li class="introduce__item"><a href="#" class="introduce__link" target="_blank"><i class="fab fa-twitter fa-6x"></i></a></li>
-            <li class="introduce__item"><a href="#" class="introduce__link" target="_blank"><i class="fab fa-github fa-6x"></i></a></li>
+            <li class="introduce__item"><a href="#" class="introduce__link" target="_blank"><i
+                    class="fab fa-linkedin fa-6x"></i></a></li>
+            <li class="introduce__item"><a href="#" class="introduce__link" target="_blank"><i
+                    class="fab fa-twitter fa-6x"></i></a></li>
+            <li class="introduce__item"><a href="#" class="introduce__link" target="_blank"><i
+                    class="fab fa-github fa-6x"></i></a></li>
         </ul>
         <a href="#" class="introduce__contact">Contact</a>
         <div class="introduce__checkMore">
@@ -26,5 +42,6 @@
         </div>
     </section>
 </div>
+<script src="app/sidebar.js"></script>
 </body>
 </html>
