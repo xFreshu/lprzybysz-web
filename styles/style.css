@@ -1,7 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Mukta:wght@400;700&display=swap");
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  font-size: 10px;
+  background-color: #F9F9FF;
+  color: #2B2B2B;
+  font-family: "Mukta", sans-serif;
+}
+
+.introduce {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 50%;
+}
+.introduce .introduce__photo {
+  position: absolute;
+  top: 10%;
+  height: 300px;
+  width: 300px;
+  border-radius: 100%;
+}
+.introduce .introduce__header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 2rem;
+  letter-spacing: 2px;
+  font-weight: 700;
+}
+.introduce .introduce__list {
+  display: flex;
+  position: absolute;
+  top: 60%;
+  list-style: none;
+}
+.introduce .introduce__list .introduce__item {
+  margin: 0 2.5rem;
+}
+.introduce .introduce__list .introduce__item .introduce__link {
+  color: #2B2B2B;
+}
+.introduce .introduce__contact {
+  position: absolute;
+  top: 75%;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 1rem;
+  padding: 15px 40px;
+  border-radius: 10px;
+  background-color: #E5C19E;
+  color: #F9F9FF;
+}
+.introduce .introduce__checkMore {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  position: absolute;
+  bottom: 5%;
+}
+.introduce .introduce__checkMore .introduce__instruction {
+  font-size: 0.7rem;
+  margin-bottom: 10px;
+  letter-spacing: 1px;
+}
+.introduce .introduce__checkMore .introduce__scroll {
+  display: flex;
+  margin: 0 auto;
+  width: 20px;
+  height: 40px;
+  border: solid 2px black;
+  border-radius: 20px;
+}
+.introduce .introduce__checkMore .introduce__scroll .introduce__justDot {
+  margin: auto;
+  display: block;
+  width: 7px;
+  height: 7px;
+  background-color: black;
+  border-radius: 50%;
+  animation: move-dot 1.5s infinite;
+}
+
+@keyframes move-dot {
+  0% {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(10px);
+  }
 }
 
 /*# sourceMappingURL=style.css.map */

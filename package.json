@@ -1,0 +1,23 @@
+{
+  "name": "lprzybysz-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xFreshu/lprzybysz-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xFreshu/lprzybysz-web/issues"
+  },
+  "homepage": "https://github.com/xFreshu/lprzybysz-web#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1"
+  }
+}
