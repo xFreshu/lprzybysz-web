@@ -6,8 +6,6 @@
 }
 
 .wrapper {
-  display: flex;
-  justify-content: center;
   font-size: 10px;
   background-color: #F9F9FF;
   color: #2B2B2B;
@@ -21,6 +19,7 @@
   align-items: center;
   height: 100vh;
   width: 50%;
+  margin: 0 auto;
 }
 .introduce .introduce__photo {
   position: absolute;
@@ -106,6 +105,7 @@
   width: 300px;
   height: 100%;
   font-family: "Mukta", sans-serif;
+  left: -300px;
 }
 .sidebar .sidebar__photo {
   display: flex;
@@ -116,7 +116,7 @@
 .sidebar .hamburger {
   position: fixed;
   top: 25px;
-  left: 320px;
+  left: 20px;
   color: #2B2B2B;
 }
 .sidebar .sidebar__list .sidebar__item {
@@ -144,6 +144,73 @@
   margin-top: 10rem;
   text-align: center;
   font-size: 0.8rem;
+}
+
+.active {
+  left: 0;
+}
+
+.activeHamburger {
+  left: 320px;
+}
+
+.about {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40vh;
+  width: 60%;
+  margin: 0 auto;
+}
+.about .about__photo {
+  position: absolute;
+  left: 5%;
+  border-radius: 50%;
+  width: 20%;
+}
+.about .about__header {
+  position: absolute;
+  left: 10%;
+  top: 0;
+  font-size: 40px;
+  font-weight: 900;
+}
+.about .about__information {
+  margin-left: 30%;
+  width: 70%;
+  height: 60%;
+  border-radius: 10px;
+  background-color: white;
+}
+.about .about__information .about__generalInformation {
+  width: 50%;
+  height: 100%;
+}
+.about .about__information .about__generalInformation .generalInformation {
+  background-color: black;
+  height: 70%;
+}
+.about .about__information .about__generalInformation .about__cv {
+  margin: 10px 0 0 30px;
+  display: inline-block;
+  width: 150px;
+  height: 50px;
+  font-size: 1rem;
+  font-weight: 400;
+  text-align: center;
+  line-height: 50px;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #F9F9FF;
+  background-color: #E5C19E;
+}
+.about .about__information .about__generalInformation .about__skills {
+  position: absolute;
+  top: 0;
+  width: 50%;
+  height: 100%;
+  background-color: blue;
 }
 
 
