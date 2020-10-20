@@ -20,49 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2b140ba-2a21-4c4f-a264-09aaec825525" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/styles/_about.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/09/1345a0dcb8aa6db24d8e850dca3d17.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/09/1345a0dcb8aa6db24d8e850dca3d17.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/12/8595f004428b32000843ab8c823832.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/12/8595f004428b32000843ab8c823832.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/1c/11e017ea0f599580a73a685537d18f.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/1c/11e017ea0f599580a73a685537d18f.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/1e/8412a4199c4ebd8afe9956ab873237.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/1e/8412a4199c4ebd8afe9956ab873237.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/21/1d891df2b8a1dd435d309c69476915.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/21/1d891df2b8a1dd435d309c69476915.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/2a/e1c7445636e07518899c067f388a93.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/2a/e1c7445636e07518899c067f388a93.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/44/b1495cf230e100c8081645a207d721.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/44/b1495cf230e100c8081645a207d721.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/5d/5b58373fe2c6136eb7ea7f62adef53.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/5d/5b58373fe2c6136eb7ea7f62adef53.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/79/9590dd48439d25ba0924f7c1715894.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/79/9590dd48439d25ba0924f7c1715894.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/80/9defe294a42cecc4dfd59fc74857dc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/80/9defe294a42cecc4dfd59fc74857dc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/82/20b0d4f3fc42bc1ca8cab18b937fba.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/82/20b0d4f3fc42bc1ca8cab18b937fba.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/9c/9df9565505acfbc37b82ec80014dfe.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/9c/9df9565505acfbc37b82ec80014dfe.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/b3/59c82473f283dddf441624674bd863.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/b3/59c82473f283dddf441624674bd863.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/b8/723b323aee8d46d7f0c1eebb689d89.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/b8/723b323aee8d46d7f0c1eebb689d89.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/d6/6af0f7868cb2c7ad93186028a11b9a.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/d6/6af0f7868cb2c7ad93186028a11b9a.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/da/b749d4db18e29be3bdb9a25ec11cea.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/da/b749d4db18e29be3bdb9a25ec11cea.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/e0/5a04c7ae2fd20d348411533aab8d5e.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/e0/5a04c7ae2fd20d348411533aab8d5e.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/ea/2abceaf9e6a322031f92c409ddddde.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/ea/2abceaf9e6a322031f92c409ddddde.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/ef/f3136c6c1c33c701231acb0d0e9bfc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/ef/f3136c6c1c33c701231acb0d0e9bfc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/f0/57c02a1ddc479c44cd62343a39bd12.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/f0/57c02a1ddc479c44cd62343a39bd12.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/f6/ea82c441722de4416c3f5fa85f3c41.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/f6/ea82c441722de4416c3f5fa85f3c41.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/fc/0c58e285cd626b7c5fa397a91d13d4.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/fc/0c58e285cd626b7c5fa397a91d13d4.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/fe/156ddd84e48fe521b9f17c4229b472.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/fe/156ddd84e48fe521b9f17c4229b472.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sidebar.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/all.min.d92a794a.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/all.min.d92a794a.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/sidebar.7b89af07.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/sidebar.7b89af07.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/sidebar.7b89af07.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/sidebar.7b89af07.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/style.251b6741.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.251b6741.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/style.251b6741.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.251b6741.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/style.251b6741.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.251b6741.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/style.251b6741.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.251b6741.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/_introduce.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/_introduce.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/_sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/_wrapper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/_wrapper.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/_about.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +108,8 @@
       <workItem from="1602873385419" duration="2122000" />
       <workItem from="1602946828365" duration="13000" />
       <workItem from="1603029723063" duration="4098000" />
-      <workItem from="1603121987562" duration="7133000" />
+      <workItem from="1603121987562" duration="7524000" />
+      <workItem from="1603207645817" duration="1616000" />
     </task>
     <servers />
   </component>
@@ -169,22 +141,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="628" y="292" key="EditFileWatcherDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602755527002" />
-    <state width="1875" height="281" key="GridCell.Tab.0.bottom" timestamp="1603130622847">
+    <state width="1875" height="281" key="GridCell.Tab.0.bottom" timestamp="1603131429455">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603130622847" />
-    <state width="1875" height="281" key="GridCell.Tab.0.center" timestamp="1603130622847">
+    <state width="1875" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603131429455" />
+    <state width="1875" height="281" key="GridCell.Tab.0.center" timestamp="1603131429455">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603130622847" />
-    <state width="1875" height="281" key="GridCell.Tab.0.left" timestamp="1603130622847">
+    <state width="1875" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603131429455" />
+    <state width="1875" height="281" key="GridCell.Tab.0.left" timestamp="1603131429455">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603130622847" />
-    <state width="1875" height="281" key="GridCell.Tab.0.right" timestamp="1603130622847">
+    <state width="1875" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603131429455" />
+    <state width="1875" height="281" key="GridCell.Tab.0.right" timestamp="1603131429455">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603130622847" />
+    <state width="1875" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603131429455" />
     <state x="681" y="261" width="540" height="524" key="StructurePopup" timestamp="1602780707822">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

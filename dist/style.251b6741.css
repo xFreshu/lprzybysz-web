@@ -165,9 +165,9 @@
 }
 .about .about__photo {
   position: absolute;
-  left: 5%;
+  left: 10%;
   border-radius: 50%;
-  width: 20%;
+  width: 150px;
 }
 .about .about__header {
   position: absolute;
@@ -177,22 +177,23 @@
   font-weight: 900;
 }
 .about .about__information {
+  position: relative;
   margin-left: 30%;
   width: 70%;
   height: 60%;
   border-radius: 10px;
   background-color: white;
+  box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.75);
 }
 .about .about__information .about__generalInformation {
   width: 50%;
   height: 100%;
 }
 .about .about__information .about__generalInformation .generalInformation {
-  background-color: black;
   height: 70%;
 }
 .about .about__information .about__generalInformation .about__cv {
-  margin: 10px 0 0 30px;
+  margin: 5px 0 0 30px;
   display: inline-block;
   width: 150px;
   height: 50px;
@@ -205,12 +206,33 @@
   color: #F9F9FF;
   background-color: #E5C19E;
 }
-.about .about__information .about__generalInformation .about__skills {
+.about .about__information .about__skills {
   position: absolute;
-  top: 0;
+  top: 10%;
+  left: 50%;
   width: 50%;
-  height: 100%;
-  background-color: blue;
+  height: 80%;
+}
+.about .about__information .about__skills .skills__header {
+  display: inline-block;
+  font-size: 20px;
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  letter-spacing: 2px;
+}
+.about .about__information .about__skills .skills__list {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  flex-wrap: wrap;
+  border-left: #E5C19E 2px solid;
+}
+.about .about__information .about__skills .skills__list .skills__item {
+  margin: 50px 10px;
+}
+.about .about__information .about__skills .skills__list .skills__item .skills__icon {
+  background-color: white;
 }
 
 
