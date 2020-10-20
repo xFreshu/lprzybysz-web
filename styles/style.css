@@ -303,4 +303,63 @@
   margin-top: 200px;
 }
 
+.experience {
+  height: 100vh;
+  position: relative;
+}
+.experience .experience__header {
+  position: absolute;
+  top: 50px;
+  left: 420px;
+  font-size: 40px;
+  font-weight: 900;
+}
+.experience .experience__wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  height: 64vh;
+}
+.experience .experience__wrapper .experience__school, .experience .experience__wrapper .experience__work {
+  width: 500px;
+  margin: 0 40px;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.75);
+}
+.experience .experience__wrapper .experience__school .school, .experience .experience__wrapper .experience__school .work, .experience .experience__wrapper .experience__work .school, .experience .experience__wrapper .experience__work .work {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+}
+.experience .experience__wrapper .experience__school .school .school__years, .experience .experience__wrapper .experience__school .school .work__years, .experience .experience__wrapper .experience__school .work .school__years, .experience .experience__wrapper .experience__school .work .work__years, .experience .experience__wrapper .experience__work .school .school__years, .experience .experience__wrapper .experience__work .school .work__years, .experience .experience__wrapper .experience__work .work .school__years, .experience .experience__wrapper .experience__work .work .work__years {
+  font-size: 18px;
+  color: black;
+  padding: 20px 0 0 25px;
+}
+.experience .experience__wrapper .experience__school .school .school__name, .experience .experience__wrapper .experience__school .school .work__name, .experience .experience__wrapper .experience__school .work .school__name, .experience .experience__wrapper .experience__school .work .work__name, .experience .experience__wrapper .experience__work .school .school__name, .experience .experience__wrapper .experience__work .school .work__name, .experience .experience__wrapper .experience__work .work .school__name, .experience .experience__wrapper .experience__work .work .work__name {
+  font-size: 18px;
+  font-weight: 900;
+  text-align: center;
+  padding: 5px 0 10px 25px;
+}
+.experience .experience__wrapper .experience__school .school .school__describe, .experience .experience__wrapper .experience__school .school .work__describe, .experience .experience__wrapper .experience__school .work .school__describe, .experience .experience__wrapper .experience__school .work .work__describe, .experience .experience__wrapper .experience__work .school .school__describe, .experience .experience__wrapper .experience__work .school .work__describe, .experience .experience__wrapper .experience__work .work .school__describe, .experience .experience__wrapper .experience__work .work .work__describe {
+  display: flex;
+  margin: 0 auto;
+  height: 80%;
+  width: 80%;
+  font-size: 16px;
+  border-bottom: solid 5px #CCA885;
+}
+.experience .experience__wrapper .experience__school .school .school__describe .describe__item, .experience .experience__wrapper .experience__school .school .work__describe .describe__item, .experience .experience__wrapper .experience__school .work .school__describe .describe__item, .experience .experience__wrapper .experience__school .work .work__describe .describe__item, .experience .experience__wrapper .experience__work .school .school__describe .describe__item, .experience .experience__wrapper .experience__work .school .work__describe .describe__item, .experience .experience__wrapper .experience__work .work .school__describe .describe__item, .experience .experience__wrapper .experience__work .work .work__describe .describe__item {
+  margin-bottom: 15px;
+}
+.experience .experience__wrapper .experience__school .school .school__describe .describe__item:first-child, .experience .experience__wrapper .experience__school .school .work__describe .describe__item:first-child, .experience .experience__wrapper .experience__school .work .school__describe .describe__item:first-child, .experience .experience__wrapper .experience__school .work .work__describe .describe__item:first-child, .experience .experience__wrapper .experience__work .school .school__describe .describe__item:first-child, .experience .experience__wrapper .experience__work .school .work__describe .describe__item:first-child, .experience .experience__wrapper .experience__work .work .school__describe .describe__item:first-child, .experience .experience__wrapper .experience__work .work .work__describe .describe__item:first-child {
+  list-style: none;
+}
+
 /*# sourceMappingURL=style.css.map */

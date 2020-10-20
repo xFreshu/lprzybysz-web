@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2b140ba-2a21-4c4f-a264-09aaec825525" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/styles/_services.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/_experience.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/ea/2abceaf9e6a322031f92c409ddddde.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/ea/2abceaf9e6a322031f92c409ddddde.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/fe/156ddd84e48fe521b9f17c4229b472.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/fe/156ddd84e48fe521b9f17c4229b472.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -28,7 +28,6 @@
       <change beforePath="$PROJECT_DIR$/dist/style.251b6741.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.251b6741.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/style.251b6741.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.251b6741.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/_about.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.scss" afterDir="false" />
@@ -107,7 +106,7 @@
       <workItem from="1602946828365" duration="13000" />
       <workItem from="1603029723063" duration="4098000" />
       <workItem from="1603121987562" duration="7524000" />
-      <workItem from="1603207645817" duration="5101000" />
+      <workItem from="1603207645817" duration="9425000" />
     </task>
     <servers />
   </component>
@@ -131,6 +130,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="585" y="197" key="#Inspections/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602863159762" />
+    <state x="710" y="343" key="#Notifications" timestamp="1603213775556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="710" y="343" key="#Notifications/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603213775556" />
     <state x="689" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602874350544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

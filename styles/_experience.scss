@@ -1,0 +1,67 @@
+.experience {
+  height: 100vh;
+  position: relative;
+
+  .experience__header {
+    position: absolute;
+    top: 50px;
+    left: 420px;
+    font-size: 40px;
+    font-weight: 900;
+  }
+
+  .experience__wrapper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    height: 64vh;
+
+    .experience__school, .experience__work {
+      width: 500px;
+      margin: 0 40px;
+      background-color: white;
+      border-radius: 20px;
+      box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.75);
+
+      .school, .work {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        height: 300px;
+
+        .school__years, .work__years {
+          font-size: 18px;
+          color: black;
+          padding: 20px 0 0 25px;
+        }
+
+        .school__name, .work__name {
+          font-size: 18px;
+          font-weight: 900;
+          text-align: center;
+          padding: 5px 0 10px 25px;
+        }
+
+        .school__describe, .work__describe {
+          display: flex;
+          margin: 0 auto;
+          height: 80%;
+          width: 80%;
+          font-size: 16px;
+          border-bottom: solid 5px #CCA885;
+
+          .describe__item {
+            margin-bottom: 15px;
+
+            &:first-child {
+              list-style: none;
+            }
+          }
+        }
+      }
+    }
+  }
+}
