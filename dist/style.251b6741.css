@@ -240,7 +240,7 @@
   display: flex;
   justify-content: center;
   margin: 0 auto;
-  width: 60%;
+  width: 70%;
   height: 60vh;
 }
 .service .services__header {
@@ -259,7 +259,7 @@
 }
 .service .services__list .services__item {
   position: relative;
-  margin: 0 25px;
+  margin: 0 55px;
   background-color: black;
   height: 350px;
   width: 300px;
@@ -360,6 +360,16 @@
 }
 .experience .experience__wrapper .experience__school .school .school__describe .describe__item:first-child, .experience .experience__wrapper .experience__school .school .work__describe .describe__item:first-child, .experience .experience__wrapper .experience__school .work .school__describe .describe__item:first-child, .experience .experience__wrapper .experience__school .work .work__describe .describe__item:first-child, .experience .experience__wrapper .experience__work .school .school__describe .describe__item:first-child, .experience .experience__wrapper .experience__work .school .work__describe .describe__item:first-child, .experience .experience__wrapper .experience__work .work .school__describe .describe__item:first-child, .experience .experience__wrapper .experience__work .work .work__describe .describe__item:first-child {
   list-style: none;
+}
+
+.portfolio {
+  height: 40vh;
+  background-color: grey;
+}
+
+.contact {
+  height: 60vh;
+  background-color: greenyellow;
 }
 
 

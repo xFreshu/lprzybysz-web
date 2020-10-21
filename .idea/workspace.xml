@@ -20,16 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2b140ba-2a21-4c4f-a264-09aaec825525" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/styles/_experience.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/_portfolio.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/ea/2abceaf9e6a322031f92c409ddddde.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/ea/2abceaf9e6a322031f92c409ddddde.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/f6/ea82c441722de4416c3f5fa85f3c41.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/f6/ea82c441722de4416c3f5fa85f3c41.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/fe/156ddd84e48fe521b9f17c4229b472.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/fe/156ddd84e48fe521b9f17c4229b472.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/all.min.d92a794a.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/all.min.d92a794a.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/style.251b6741.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.251b6741.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/style.251b6741.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.251b6741.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.251b6741.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.251b6741.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/_services.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/_services.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +109,8 @@
       <workItem from="1602946828365" duration="13000" />
       <workItem from="1603029723063" duration="4098000" />
       <workItem from="1603121987562" duration="7524000" />
-      <workItem from="1603207645817" duration="9425000" />
+      <workItem from="1603207645817" duration="9758000" />
+      <workItem from="1603293956732" duration="1302000" />
     </task>
     <servers />
   </component>
