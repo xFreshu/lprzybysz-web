@@ -368,8 +368,90 @@
 }
 
 .contact {
+  position: relative;
   height: 60vh;
-  background-color: greenyellow;
+}
+.contact .contact__header {
+  position: absolute;
+  top: 50px;
+  left: 420px;
+  font-size: 40px;
+  font-weight: 900;
+}
+.contact .form {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 550px;
+  border: solid 5px #CCA885;
+  height: 53vh;
+}
+.contact .form .form__label-name {
+  display: flex;
+  position: absolute;
+  top: 50px;
+  left: 10px;
+  flex-direction: column;
+  font-size: 18px;
+  font-weight: 900;
+  width: 250px;
+}
+.contact .form .form__label-name .form__input-name {
+  margin-top: 10px;
+  background-color: transparent;
+  border: none;
+  border-bottom: solid #CCA885 2px;
+  outline: none;
+  font-size: 14px;
+}
+.contact .form .form__label-email {
+  position: absolute;
+  top: 50px;
+  right: 10px;
+  display: flex;
+  flex-direction: column;
+  font-size: 18px;
+  font-weight: 900;
+  width: 250px;
+}
+.contact .form .form__label-email .form__input-email {
+  margin-top: 10px;
+  background-color: transparent;
+  border: none;
+  border-bottom: solid #CCA885 2px;
+  outline: none;
+  font-size: 14px;
+}
+.contact .form .form__label-message {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 135px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 18px;
+  font-weight: 900;
+}
+.contact .form .form__label-message .form__textarea {
+  width: 400px;
+  height: 250px;
+  font-size: 16px;
+  border: solid 2px #CCA885;
+  background-color: transparent;
+  outline: none;
+  resize: none;
+}
+.contact .form .form__submit {
+  position: absolute;
+  left: 50%;
+  bottom: 10px;
+  transform: translateX(-50%);
+  width: 100px;
+  height: 50px;
+  border: solid 2px #CCA885;
+  background-color: transparent;
+  letter-spacing: 2px;
 }
 
 /*# sourceMappingURL=style.css.map */

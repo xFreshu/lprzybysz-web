@@ -1,4 +1,94 @@
-.contact{
+.contact {
+  position: relative;
   height: 60vh;
-  background-color: greenyellow;
+
+  .contact__header {
+    position: absolute;
+    top: 50px;
+    left: 420px;
+    font-size: 40px;
+    font-weight: 900;
+  }
+
+  .form {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 550px;
+    border: solid 5px $secondaryColor-active;
+    height: 53vh;
+
+    .form__label-name {
+      display: flex;
+      position: absolute;
+      top: 50px;
+      left: 10px;
+      flex-direction: column;
+      font-size: 18px;
+      font-weight: 900;
+      width: 250px;
+
+      .form__input-name {
+        margin-top: 10px;
+        background-color: transparent;
+        border: none;
+        border-bottom: solid $secondaryColor-active 2px;
+        outline: none;
+        font-size: 14px;
+      }
+    }
+
+    .form__label-email {
+      position: absolute;
+      top: 50px;
+      right: 10px;
+      display: flex;
+      flex-direction: column;
+      font-size: 18px;
+      font-weight: 900;
+      width: 250px;
+
+      .form__input-email {
+        margin-top: 10px;
+        background-color: transparent;
+        border: none;
+        border-bottom: solid $secondaryColor-active 2px;
+        outline: none;
+        font-size: 14px;
+      }
+    }
+
+    .form__label-message {
+      display: flex;
+      flex-direction: column;
+      position: absolute;
+      top: 135px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 18px;
+      font-weight: 900;
+
+      .form__textarea {
+        width: 400px;
+        height: 250px;
+        font-size: 16px;
+        border: solid 2px $secondaryColor-active;
+        background-color: transparent;
+        outline: none;
+        resize: none;
+      }
+    }
+    .form__submit{
+      position: absolute;
+      left: 50%;
+      bottom: 10px;
+      transform: translateX(-50%);
+      width: 100px;
+      height: 50px;
+      border: solid 2px $secondaryColor-active;
+      background-color: transparent;
+      letter-spacing: 2px;
+    }
+  }
 }
