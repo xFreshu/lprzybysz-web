@@ -165,20 +165,20 @@
 }
 .about .about__photo {
   position: absolute;
-  left: 10%;
+  left: 5%;
   border-radius: 50%;
   width: 150px;
 }
 .about .about__header {
   position: absolute;
-  left: 9%;
+  left: 2.5%;
   top: 5%;
   font-size: 40px;
   font-weight: 900;
 }
 .about .about__information {
   position: relative;
-  margin-left: 30%;
+  margin-left: 20%;
   width: 70%;
   height: 60%;
   border-radius: 10px;
@@ -191,6 +191,9 @@
 }
 .about .about__information .about__generalInformation .generalInformation {
   height: 70%;
+  font-size: 16px;
+  padding: 20px;
+  text-align: justify;
 }
 .about .about__information .about__generalInformation .about__cv {
   margin: 5px 0 0 30px;
@@ -367,8 +370,73 @@
 }
 
 .portfolio {
-  height: 40vh;
-  background-color: grey;
+  position: relative;
+  height: 50vh;
+  width: 100%;
+  margin: 0 auto;
+}
+.portfolio .portfolio__header {
+  position: absolute;
+  top: 0;
+  left: 20%;
+  font-size: 40px;
+  font-weight: 900;
+}
+.portfolio .portfolio__works {
+  width: 70%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 100%;
+  margin: 0 auto;
+}
+.portfolio .portfolio__works .portfolio__card {
+  position: relative;
+  margin-top: 30px;
+  height: 300px;
+  width: 300px;
+  border: solid 2px #CCA885;
+  transition: 0.7s;
+}
+.portfolio .portfolio__works .portfolio__card:hover {
+  background-color: #CCA885;
+}
+.portfolio .portfolio__works .portfolio__card .card__photo {
+  position: relative;
+  display: flex;
+  margin: 40px auto 0;
+  max-height: 250px;
+  max-width: 250px;
+  transition: 0.7s;
+}
+.portfolio .portfolio__works .portfolio__card .card__photo:hover {
+  transform: scale(2);
+  border: solid 1px #2B2B2B;
+  z-index: 100;
+}
+.portfolio .portfolio__works .portfolio__card .card__wrapper {
+  position: absolute;
+  bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 100%;
+}
+.portfolio .portfolio__works .portfolio__card .card__wrapper .card__href {
+  margin: 0 25px;
+  padding: 10px 35px;
+  font-size: 16px;
+  color: #2B2B2B;
+  font-weight: 900;
+  text-decoration: none;
+  letter-spacing: 2px;
+  border: solid #2B2B2B 2px;
+  transition: 0.7s;
+}
+.portfolio .portfolio__works .portfolio__card .card__wrapper .card__href:hover {
+  background-color: #2B2B2B;
+  color: #F9F9FF;
 }
 
 .contact {
@@ -378,7 +446,7 @@
 .contact .contact__header {
   position: absolute;
   top: 50px;
-  left: 420px;
+  left: 20%;
   font-size: 40px;
   font-weight: 900;
 }
@@ -441,6 +509,7 @@
   width: 400px;
   height: 250px;
   font-size: 16px;
+  padding: 5px;
   border: solid 2px #CCA885;
   background-color: transparent;
   outline: none;
@@ -455,7 +524,15 @@
   height: 50px;
   border: solid 2px #CCA885;
   background-color: transparent;
+  color: #2B2B2B;
   letter-spacing: 2px;
+  font-weight: 900;
+  outline: none;
+  transition: 0.7s;
+}
+.contact .form .form__submit:hover {
+  color: #F9F9FF;
+  background-color: #CCA885;
 }
 
 

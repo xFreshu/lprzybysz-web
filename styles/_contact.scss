@@ -5,7 +5,7 @@
   .contact__header {
     position: absolute;
     top: 50px;
-    left: 420px;
+    left: 20%;
     font-size: 40px;
     font-weight: 900;
   }
@@ -73,6 +73,7 @@
         width: 400px;
         height: 250px;
         font-size: 16px;
+        padding: 5px;
         border: solid 2px $secondaryColor-active;
         background-color: transparent;
         outline: none;
@@ -88,7 +89,15 @@
       height: 50px;
       border: solid 2px $secondaryColor-active;
       background-color: transparent;
+      color: #2B2B2B;
       letter-spacing: 2px;
+      font-weight: 900;
+      outline: none;
+      transition: .7s;
+      &:hover{
+        color: #F9F9FF;
+        background-color: $secondaryColor-active;
+      }
     }
   }
 }

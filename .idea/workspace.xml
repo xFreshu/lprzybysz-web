@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2b140ba-2a21-4c4f-a264-09aaec825525" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/uiux.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mySite.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/ea/2abceaf9e6a322031f92c409ddddde.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/ea/2abceaf9e6a322031f92c409ddddde.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/f6/ea82c441722de4416c3f5fa85f3c41.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/f6/ea82c441722de4416c3f5fa85f3c41.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/fe/156ddd84e48fe521b9f17c4229b472.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/fe/156ddd84e48fe521b9f17c4229b472.json" afterDir="false" />
@@ -30,10 +30,10 @@
       <change beforePath="$PROJECT_DIR$/dist/style.251b6741.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.251b6741.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/style.251b6741.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.251b6741.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/style.251b6741.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.251b6741.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/style.251b6741.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.251b6741.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/_about.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/_contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/_contact.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/_services.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/_services.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/_portfolio.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/_portfolio.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css.map" afterDir="false" />
     </list>
@@ -115,7 +115,7 @@
       <workItem from="1603293956732" duration="2734000" />
       <workItem from="1603378285186" duration="6163000" />
       <workItem from="1603440316169" duration="1231000" />
-      <workItem from="1603467308681" duration="3774000" />
+      <workItem from="1603467308681" duration="9368000" />
     </task>
     <servers />
   </component>
@@ -171,6 +171,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1875" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603131429455" />
+    <state x="740" y="157" key="RollbackChangesDialog" timestamp="1603478476826">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="157" key="RollbackChangesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603478476826" />
     <state x="681" y="261" width="540" height="524" key="StructurePopup" timestamp="1602780707822">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

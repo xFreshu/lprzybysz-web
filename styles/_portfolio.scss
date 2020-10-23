@@ -1,4 +1,78 @@
-.portfolio{
-  height: 40vh;
-  background-color: grey;
+.portfolio {
+  position: relative;
+  height: 50vh;
+  width: 100%;
+  margin: 0 auto;
+
+  .portfolio__header {
+    position: absolute;
+    top: 0;
+    left: 20%;
+    font-size: 40px;
+    font-weight: 900;
+  }
+
+  .portfolio__works {
+    width: 70%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100%;
+    margin: 0 auto;
+
+    .portfolio__card {
+      position: relative;
+      margin-top: 30px;
+      height: 300px;
+      width: 300px;
+      border: solid 2px $secondaryColor-active;
+      transition: .7s;
+
+      &:hover {
+        background-color: $secondaryColor-active;
+      }
+
+      .card__photo {
+        position: relative;
+        display: flex;
+        margin: 40px auto 0;
+        max-height: 250px;
+        max-width: 250px;
+        transition: .7s;
+
+        &:hover {
+          transform: scale(2);
+          border: solid 1px #2B2B2B;
+          z-index: 100;
+        }
+      }
+
+      .card__wrapper {
+        position: absolute;
+        bottom: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50px;
+        width: 100%;
+
+        .card__href {
+          margin: 0 25px;
+          padding: 10px 35px;
+          font-size: 16px;
+          color: #2B2B2B;
+          font-weight: 900;
+          text-decoration: none;
+          letter-spacing: 2px;
+          border: solid #2B2B2B 2px;
+          transition: .7s;
+
+          &:hover {
+            background-color: #2B2B2B;
+            color: #F9F9FF;
+          }
+        }
+      }
+    }
+  }
 }
